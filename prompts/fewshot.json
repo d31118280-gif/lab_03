@@ -1,0 +1,14 @@
+[
+  {
+    "segment_id": "s013",
+    "source": "Modelling tolerance refers to how accurately a model fits against the as-existing survey (usually a point cloud dataset).",
+    "translation": "Допустимое значение моделирования относится к тому, насколько точно модель соответствует существующему обследованию (обычно набору данных облака точек).",
+    "note": "Составной термин: «modelling tolerance» нужно переводить как «допустимое значение моделирования» (по TBX), а не дословно «толерантность моделирования»."
+  },
+  {
+    "segment_id": "s014",
+    "source": "BIM software restrictions also make the use of native parametric objects for irregular geometries difficult or impossible to achieve without limiting model functionality.",
+    "translation": "Ограничения программного обеспечения BIM также затрудняют или делают невозможными использование родных параметрических предметов неправильной геометрической формы без ограничения функциональности модели.",
+    "note": "Ложный друг переводчика: «parametric objects» — это «параметрические объекты» (по TBX), а не «параметрические предметы» (хотя словарь может предложить «objects = предметы»)."
+  }
+]
