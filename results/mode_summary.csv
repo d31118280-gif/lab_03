@@ -1,0 +1,6 @@
+﻿system,type,json_valid_%,mean_latency_s,violations_checked,compliance_checked_%,mixed_words,latin_words,length_ratio,same_as_reference
+zero,LLM,100.0,7.58,1,93.8,0,9,0.92,0
+controlled,LLM,100.0,4.76,0,100.0,0,12,0.96,0
+fewshot,LLM,100.0,4.38,0,100.0,0,9,0.94,0
+MarianMT,NMT,,,7,56.2,0,3,0.97,0
+NLLB,NMT,,,5,68.8,0,9,0.94,0
